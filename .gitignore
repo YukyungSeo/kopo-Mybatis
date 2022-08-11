@@ -1,0 +1,7 @@
+/bin/
+/.settings/
+.classpath 
+.project
+/build/
+/target/
+/src/main/webapp/js/secure.js
